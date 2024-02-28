@@ -29,7 +29,7 @@ function App() {
       setPacientes(pacientesActualizados);
    };
    return (
-      <div className="container mx-auto mt-auto">
+      <div className="container mx-auto mt-12 ">
          <Header />
          <div className="mt-12 flex flex-col md:flex-row ">
             <Formulario
